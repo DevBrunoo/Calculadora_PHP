@@ -65,6 +65,8 @@
     ?>
     </fieldset>
    
+    <p><b>Detalhe:</b> Nao adicione o numero com pontos nem virgulas, coloque o numero por inteiro. <br>
+    <b>Exemplo:</b>R$7,890.90 coloque 7890.90</p>
     
 </body>
 </html>
